@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\sms-upload\static-account-statistics\payment-styles-environment\boilerplate-fixture.rs
+// Generated at: 2025-10-20T08:12:54.142Z
